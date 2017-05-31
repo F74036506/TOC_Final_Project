@@ -53,10 +53,6 @@ For simple level, it's an arithmetic game.
 
 For this game, each stage will give you an arithmetic operation. 
 
-(For some reasons, I'll just show you the first stage)
-
-![Simple1](./img/Sim_eg.png)
-
 To pass it, just enter the result of that arithmetic operation correctly.
 
 If you give a wrong answer, it'll tell you wrong and let you answer again and again until you answer it correctly.
@@ -65,7 +61,7 @@ If you give a wrong answer, it'll tell you wrong and let you answer again and ag
 
 (For some reasons, I'll just show you the first stage for example)
 
-![Simple1](./img/Sim_eg.png)
+![Simple1](./img/sim_eg.png)
 
 
 ## Medium - Answer-what-you-see Game
@@ -97,7 +93,7 @@ Once you say `leave` to the bot, you'll need to say `hello` again to reactivate 
 
 ###### Other
 
-Don't worry, there's a file called 'Answer list.txt'. 
+Don't worry, there's a file called 'Answer_List.txt' in this folder. 
 
 In this file, there are the answers to all of the questions.
 
