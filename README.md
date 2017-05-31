@@ -43,7 +43,7 @@ leave
 
 Three levels have three stages for each.
 
-Once you pass the three stagesm it'll go back and ask you if you want to play or leave.
+Once you pass the three stages, it'll go back and ask you if you want to play or leave.
 
 OK, let's show you the detailed of the three games.
 
@@ -53,11 +53,20 @@ For simple level, it's an arithmetic game.
 
 For this game, each stage will give you an arithmetic operation. 
 
-To pass it, just enter the result of that arithmetic operation.
+(For some reasons, I'll just show you the first stage)
 
-For some reasons, I'll just show you the first stage.
+![Simple1](./img/Sim_eg.png)
 
-![Simple1](./img/Simple_1.png)
+To pass it, just enter the result of that arithmetic operation correctly.
+
+If you give a wrong answer, it'll tell you wrong and let you answer again and again until you answer it correctly.
+
+(For Medium and Hard level, it is adopeted as well)
+
+(For some reasons, I'll just show you the first stage for example)
+
+![Simple1](./img/Sim_eg.png)
+
 
 ## Medium - Answer-what-you-see Game
 
@@ -84,4 +93,17 @@ The following is the first stage of it.
 Once you say `leave` to the bot, you'll need to say `hello` again to reactivate it.
 
 ![leave](./img/leave.png)
+
+
+###### Other
+
+Don't worry, there's a file called 'Answer list.txt'. 
+
+In this file, there are the answers to all of the questions.
+
+
+
+
+
+
 
