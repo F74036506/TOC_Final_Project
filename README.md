@@ -97,9 +97,12 @@ Once you say `leave` to the bot, you'll need to say `hello` again to reactivate 
 
 The initail state is `startstate`, you should say `hello` to it to go to the `user` state.
 
-From `user` state, it is `advance` to `state1`,`state2` and `state3`,is the 'simple', 'medium' and 'hard' level seperately, and a `go_back` to `startstate` is to 'leave'.
+From `user` state, it is `advance` to `state1`,`state2` and `state3`,
+representing the 'simple', 'medium' and 'hard' level seperately, and a `go_back` to `startstate` is to 'leave'.
 
-For the three `advance` sequences, each of them has four states, first three states represent the three stages of each sequence, and the fourth represents the pass stage. 
+For the three `advance` sequences, each of them has four states, 
+first three states represent the three stages of each sequence, 
+and the fourth represents the pass stage. 
 
 It'll print something encourage to congratulate and `go_back` to the `user` state immediately.
 
