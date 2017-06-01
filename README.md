@@ -86,7 +86,8 @@ The following is the first stage of it.
 
 ## Leave
 
-Once you say `leave` to the bot, you'll need to say `hello` again to reactivate it.
+If you say `leave` to the bot at the when the bot asks you if you want to leave
+, you'll need to say `hello` again to reactivate it.
 
 ![leave](./img/leave.png)
 
@@ -102,14 +103,14 @@ representing the 'simple', 'medium' and 'hard' level seperately, and a `go_back`
 
 For the three `advance` sequences, each of them has four states, 
 first three states represent the three stages of each sequence, 
-and the fourth represents the pass stage. 
+and the fourth represents that you pass the level. 
 
-It'll print something encourage to congratulate and `go_back` to the `user` state immediately.
+It'll print something encourage words to congratulate you and `go_back` to the `user` state immediately.
 
 
-###### Other
+## Other
 
-Don't worry, there's a file called 'Answer_List.txt' in this folder. 
+Don't worry that the question is to hard, there's a file called 'Answer_List.txt' in this folder. 
 
 In this file, there are the answers to all of the questions.
 
